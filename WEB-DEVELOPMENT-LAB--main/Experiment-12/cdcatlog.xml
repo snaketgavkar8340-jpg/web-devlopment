@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cdcatlog.xsl"?>
+
+<catalog>
+
+  <cd>
+    <title>Midnight Dreams</title>
+    <artist>Arijit Singh</artist>
+    <country>India</country>
+    <company>T-Series</company>
+    <price>12.50</price>
+    <year>2022</year>
+  </cd>
+
+  <cd>
+    <title>Golden Beats</title>
+    <artist>Shreya Ghoshal</artist>
+    <country>India</country>
+    <company>Zee Music</company>
+    <price>11.20</price>
+    <year>2021</year>
+  </cd>
+
+  <cd>
+    <title>Rock Revolution</title>
+    <artist>Imagine Dragons</artist>
+    <country>USA</country>
+    <company>Universal Music</company>
+    <price>15.00</price>
+    <year>2020</year>
+  </cd>
+
+  <cd>
+    <title>Melody Nights</title>
+    <artist>Atif Aslam</artist>
+    <country>Pakistan</country>
+    <company>Sony Music</company>
+    <price>10.90</price>
+    <year>2019</year>
+  </cd>
+
+  <cd>
+    <title>Classical Harmony</title>
+    <artist>A. R. Rahman</artist>
+    <country>India</country>
+    <company>Saregama</company>
+    <price>14.80</price>
+    <year>2023</year>
+  </cd>
+
+  <cd>
+    <title>Electric Soul</title>
+    <artist>Alan Walker</artist>
+    <country>Norway</country>
+    <company>Walker Records</company>
+    <price>13.60</price>
+    <year>2022</year>
+  </cd>
+
+  <cd>
+    <title>Rhythm of Life</title>
+    <artist>Neha Kakkar</artist>
+    <country>India</country>
+    <company>Tips Music</company>
+    <price>9.99</price>
+    <year>2021</year>
+  </cd>
+
+  <cd>
+    <title>Skyline Tunes</title>
+    <artist>Ed Sheeran</artist>
+    <country>UK</country>
+    <company>Atlantic Records</company>
+    <price>16.40</price>
+    <year>2018</year>
+  </cd>
+
+  <cd>
+    <title>Retro Vibes</title>
+    <artist>Kishore Kumar</artist>
+    <country>India</country>
+    <company>HMV</company>
+    <price>8.75</price>
+    <year>1980</year>
+  </cd>
+
+  <cd>
+    <title>Moonlight Journey</title>
+    <artist>Taylor Swift</artist>
+    <country>USA</country>
+    <company>Republic Records</company>
+    <price>17.20</price>
+    <year>2024</year>
+  </cd>
+
+  <cd>
+  <title>Desert Storm</title>
+  <artist>Zayn Malik</artist>
+  <country>UK</country>
+  <company>RCA Records</company>
+  <price>13.90</price>
+  <year>2020</year>
+</cd>
+
+<cd>
+  <title>Ocean Waves</title>
+  <artist>Selena Gomez</artist>
+  <country>USA</country>
+  <company>Interscope</company>
+  <price>14.20</price>
+  <year>2021</year>
+</cd>
+
+<cd>
+  <title>Silent Echo</title>
+  <artist>Justin Bieber</artist>
+  <country>Canada</country>
+  <company>Def Jam</company>
+  <price>15.60</price>
+  <year>2022</year>
+</cd>
+
+<cd>
+  <title>Fire Beats</title>
+  <artist>Badshah</artist>
+  <country>India</country>
+  <company>Sony Music India</company>
+  <price>11.80</price>
+  <year>2023</year>
+</cd>
+
+<cd>
+  <title>Nature Melody</title>
+  <artist>Sonu Nigam</artist>
+  <country>India</country>
+  <company>T-Series</company>
+  <price>10.50</price>
+  <year>2019</year>
+</cd>
+
+<cd>
+  <title>Dream Chaser</title>
+  <artist>Dua Lipa</artist>
+  <country>UK</country>
+  <company>Warner Music</company>
+  <price>16.00</price>
+  <year>2021</year>
+</cd>
+
+<cd>
+  <title>Street Rhythm</title>
+  <artist>Divine</artist>
+  <country>India</country>
+  <company>Gully Gang</company>
+  <price>9.80</price>
+  <year>2022</year>
+</cd>
+
+<cd>
+  <title>Blue Horizon</title>
+  <artist>Coldplay</artist>
+  <country>UK</country>
+  <company>Parlophone</company>
+  <price>18.40</price>
+  <year>2024</year>
+</cd>
+
+<cd>
+  <title>Golden Memories</title>
+  <artist>Lata Mangeshkar</artist>
+  <country>India</country>
+  <company>HMV</company>
+  <price>8.90</price>
+  <year>1978</year>
+</cd>
+
+<cd>
+  <title>Night Rider</title>
+  <artist>The Weeknd</artist>
+  <country>Canada</country>
+  <company>XO Records</company>
+  <price>17.50</price>
+  <year>2023</year>
+</cd>
+
+</catalog> 
